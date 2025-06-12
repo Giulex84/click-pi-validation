@@ -1,9 +1,0 @@
-click-pi-validation/
-├── public/
-│   ├── validation-key.txt
-│   ├── privacy-policy.html
-│   └── terms-of-service.html
-├── src/
-│   └── index.js
-├── package.json
-├── README.md
